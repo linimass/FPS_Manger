@@ -75,3 +75,5 @@ Intermediate/*
 DerivedDataCache/*
 FPS_Manager/Intermediate
 FPS_Manager/Saved
+FPS_Manager/Binaries/Win64/UE4Editor-FPS_Manager.pdb
+FPS_Manager/Binaries/Win64/FPS_ManagerEditor.target
